@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "name": "Ron Weasley",
+    "dob": "March 1, 1980",
+    "nikName": "Ickle Ronnikins, Wheezy, Won-Won",
+    "image": "ron-weasley.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Hermione Granger",
+    "dob": "September19, 1979",
+    "powers": "Magic in Harry Potter",
+    "nikName": "",
+    "image": "hermione.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Harry Potter",
+    "nikName": "The Boy Who Lived The Chosen One",
+    "dob": "July 31, 1980",
+    "powers": "Magic in Harry Potter",
+    "image": "hp.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Rubeus Hagrid",
+    "dob": "December 6, 1928",
+    "powers": "Superhuman strength, Magic in Harry Potter",
+    "nikName": "Half-giant",
+    "image": "rubeushagrid.jpeg"
+  }
+]
